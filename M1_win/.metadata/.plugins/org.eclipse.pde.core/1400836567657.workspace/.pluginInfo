@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="1040" localization="plugin" name="%pluginName" project="UML.tests" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1037" localization="plugin" name="%pluginName" project="UML" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1041" class="umlMM.diagram.part.UMLDiagramEditorPlugin" localization="plugin" name="%pluginName" project="UML.diagram" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1039" class="umlMM.presentation.UMLEditorPlugin$Implementation" localization="plugin" name="%pluginName" project="UML.editor" provider="%providerName">
+		<library name="."/>
+	</bundle>
+	<bundle bundleID="1038" class="umlMM.provider.UMLEditPlugin$Implementation" localization="plugin" name="%pluginName" project="UML.edit" provider="%providerName">
+		<library name="."/>
+	</bundle>
+</map>

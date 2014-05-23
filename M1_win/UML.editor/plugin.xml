@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+ <copyright>
+ </copyright>
+
+ $Id$
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="umlMM.presentation.UmlMMModelWizardID"
+            name="%_UI_UmlMMModelWizard_label"
+            class="umlMM.presentation.UmlMMModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/UmlMMModelFile.gif">
+         <description>%_UI_UmlMMModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <editor
+            id="umlMM.presentation.UmlMMEditorID"
+            name="%_UI_UmlMMEditor_label"
+            icon="icons/full/obj16/UmlMMModelFile.gif"
+            extensions="umlmm"
+            class="umlMM.presentation.UmlMMEditor"
+            contributorClass="umlMM.presentation.UmlMMActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

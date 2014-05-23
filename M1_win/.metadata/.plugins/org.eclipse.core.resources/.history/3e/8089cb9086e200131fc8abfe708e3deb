@@ -1,0 +1,300 @@
+	package umlMM.diagram.part;
+
+	/**
+ * @generated
+ */
+public class UMLDiagramUpdater {
+		
+		/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLNodeDescriptor> getSemanticChildren(org.eclipse.gmf.runtime.notation.View view) {
+		switch (umlMM.diagram.part.UMLVisualIDRegistry.getVisualID(view)) {
+		case umlMM.diagram.edit.parts.PackageEditPart.VISUAL_ID:
+	return getPackage_1000SemanticChildren(view);
+case umlMM.diagram.edit.parts.ClassAttributeCompartmentEditPart.VISUAL_ID:
+	return getClassAttributeCompartment_7001SemanticChildren(view);
+	}
+		return java.util.Collections.emptyList();
+}
+	
+	/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLNodeDescriptor> getPackage_1000SemanticChildren(org.eclipse.gmf.runtime.notation.View view) {
+		if (!view.isSetElement()) {
+	return java.util.Collections.emptyList();
+}
+umlMM.Package modelElement = (umlMM.Package) view.getElement();
+	java.util.LinkedList<umlMM.diagram.part.UMLNodeDescriptor> result = new java.util.LinkedList<umlMM.diagram.part.UMLNodeDescriptor>();
+						for (java.util.Iterator<?> it = modelElement.getClassifier().iterator(); it.hasNext();) {
+		umlMM.Classifier childElement = (umlMM.Classifier) it.next();
+					int visualID = umlMM.diagram.part.UMLVisualIDRegistry.getNodeVisualID(view, childElement);
+			if (visualID == umlMM.diagram.edit.parts.ClassEditPart.VISUAL_ID) {
+	result.add(new umlMM.diagram.part.UMLNodeDescriptor(childElement, visualID));
+	continue;
+}
+if (visualID == umlMM.diagram.edit.parts.DatatypeEditPart.VISUAL_ID) {
+	result.add(new umlMM.diagram.part.UMLNodeDescriptor(childElement, visualID));
+	continue;
+}
+	}
+			return result;
+	}
+
+	/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLNodeDescriptor> getClassAttributeCompartment_7001SemanticChildren(org.eclipse.gmf.runtime.notation.View view) {
+		if (false == view.eContainer() instanceof org.eclipse.gmf.runtime.notation.View) {
+	return java.util.Collections.emptyList();
+}
+org.eclipse.gmf.runtime.notation.View containerView = (org.eclipse.gmf.runtime.notation.View) view.eContainer();
+if (!containerView.isSetElement()) {
+	return java.util.Collections.emptyList();
+}
+umlMM.Class modelElement = (umlMM.Class) containerView.getElement();
+	java.util.LinkedList<umlMM.diagram.part.UMLNodeDescriptor> result = new java.util.LinkedList<umlMM.diagram.part.UMLNodeDescriptor>();
+						for (java.util.Iterator<?> it = modelElement.getAttribute().iterator(); it.hasNext();) {
+		umlMM.Attribute childElement = (umlMM.Attribute) it.next();
+					int visualID = umlMM.diagram.part.UMLVisualIDRegistry.getNodeVisualID(view, childElement);
+			if (visualID == umlMM.diagram.edit.parts.AttributeEditPart.VISUAL_ID) {
+	result.add(new umlMM.diagram.part.UMLNodeDescriptor(childElement, visualID));
+	continue;
+}
+	}
+			return result;
+	}
+	
+		/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getContainedLinks(org.eclipse.gmf.runtime.notation.View view) {
+		switch (umlMM.diagram.part.UMLVisualIDRegistry.getVisualID(view)) {
+		case umlMM.diagram.edit.parts.PackageEditPart.VISUAL_ID:
+	return getPackage_1000ContainedLinks(view);
+case umlMM.diagram.edit.parts.ClassEditPart.VISUAL_ID:
+	return getClass_2001ContainedLinks(view);
+case umlMM.diagram.edit.parts.DatatypeEditPart.VISUAL_ID:
+	return getDatatype_2002ContainedLinks(view);
+case umlMM.diagram.edit.parts.AttributeEditPart.VISUAL_ID:
+	return getAttribute_3001ContainedLinks(view);
+case umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID:
+	return getAssociaton_4001ContainedLinks(view);
+	}
+		return java.util.Collections.emptyList();
+}
+	
+		/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getIncomingLinks(org.eclipse.gmf.runtime.notation.View view) {
+		switch (umlMM.diagram.part.UMLVisualIDRegistry.getVisualID(view)) {
+		case umlMM.diagram.edit.parts.ClassEditPart.VISUAL_ID:
+	return getClass_2001IncomingLinks(view);
+case umlMM.diagram.edit.parts.DatatypeEditPart.VISUAL_ID:
+	return getDatatype_2002IncomingLinks(view);
+case umlMM.diagram.edit.parts.AttributeEditPart.VISUAL_ID:
+	return getAttribute_3001IncomingLinks(view);
+case umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID:
+	return getAssociaton_4001IncomingLinks(view);
+	}
+		return java.util.Collections.emptyList();
+}
+	
+		/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getOutgoingLinks(org.eclipse.gmf.runtime.notation.View view) {
+		switch (umlMM.diagram.part.UMLVisualIDRegistry.getVisualID(view)) {
+		case umlMM.diagram.edit.parts.ClassEditPart.VISUAL_ID:
+	return getClass_2001OutgoingLinks(view);
+case umlMM.diagram.edit.parts.DatatypeEditPart.VISUAL_ID:
+	return getDatatype_2002OutgoingLinks(view);
+case umlMM.diagram.edit.parts.AttributeEditPart.VISUAL_ID:
+	return getAttribute_3001OutgoingLinks(view);
+case umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID:
+	return getAssociaton_4001OutgoingLinks(view);
+	}
+		return java.util.Collections.emptyList();
+}
+		
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getPackage_1000ContainedLinks(org.eclipse.gmf.runtime.notation.View view) {
+	umlMM.Package modelElement = (umlMM.Package) view.getElement();
+		java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor> result = new java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor>();
+		result.addAll(getContainedTypeModelFacetLinks_Associaton_4001(modelElement));	
+	return result;
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getClass_2001ContainedLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getDatatype_2002ContainedLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getAttribute_3001ContainedLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getAssociaton_4001ContainedLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+		
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getClass_2001IncomingLinks(org.eclipse.gmf.runtime.notation.View view) {
+	umlMM.Class modelElement = (umlMM.Class) view.getElement();
+	java.util.Map<org.eclipse.emf.ecore.EObject, java.util.Collection<org.eclipse.emf.ecore.EStructuralFeature.Setting>> crossReferences = org.eclipse.emf.ecore.util.EcoreUtil.CrossReferencer.find(view.eResource().getResourceSet().getResources());
+		java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor> result = new java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor>();
+		result.addAll(getIncomingTypeModelFacetLinks_Associaton_4001(modelElement, crossReferences));	
+	return result;
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getDatatype_2002IncomingLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getAttribute_3001IncomingLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getAssociaton_4001IncomingLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+		
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getClass_2001OutgoingLinks(org.eclipse.gmf.runtime.notation.View view) {
+	umlMM.Class modelElement = (umlMM.Class) view.getElement();
+		java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor> result = new java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor>();
+		result.addAll(getOutgoingTypeModelFacetLinks_Associaton_4001(modelElement));	
+	return result;
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getDatatype_2002OutgoingLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getAttribute_3001OutgoingLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+	
+/**
+ * @generated
+ */
+public static java.util.List<umlMM.diagram.part.UMLLinkDescriptor> getAssociaton_4001OutgoingLinks(org.eclipse.gmf.runtime.notation.View view) {
+	return java.util.Collections.emptyList();
+}
+	
+	/**
+ * @generated
+ */
+private static java.util.Collection<umlMM.diagram.part.UMLLinkDescriptor> getContainedTypeModelFacetLinks_Associaton_4001(umlMM.Package container) {
+	java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor> result = new java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor>();
+	for (java.util.Iterator<?> links = container.getAssociation().iterator(); links.hasNext();) {
+	org.eclipse.emf.ecore.EObject linkObject = (org.eclipse.emf.ecore.EObject ) links.next();
+	if (false == linkObject instanceof umlMM.Associaton) {
+		continue;
+	}
+	umlMM.Associaton link = (umlMM.Associaton) linkObject;
+		if (umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID != umlMM.diagram.part.UMLVisualIDRegistry.getLinkWithClassVisualID(link)) {
+	continue;
+}
+			umlMM.Class dst = link.getDestination();
+							umlMM.Class src = link.getSource();
+							result.add(new umlMM.diagram.part.UMLLinkDescriptor(src, dst, link, umlMM.diagram.providers.UMLElementTypes.Associaton_4001, umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID));
+		}
+	return result;	
+}
+	
+/**
+ * @generated
+ */
+private static java.util.Collection<umlMM.diagram.part.UMLLinkDescriptor> getIncomingTypeModelFacetLinks_Associaton_4001(umlMM.Class target, java.util.Map<org.eclipse.emf.ecore.EObject, java.util.Collection<org.eclipse.emf.ecore.EStructuralFeature.Setting>> crossReferences) {
+	java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor> result = new java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor>();
+	java.util.Collection<org.eclipse.emf.ecore.EStructuralFeature.Setting> settings = crossReferences.get(target);
+	for (org.eclipse.emf.ecore.EStructuralFeature.Setting setting : settings) {
+		if (setting.getEStructuralFeature() != umlMM.UmlMMPackage.eINSTANCE.getAssociaton_Destination() || false == setting.getEObject() instanceof umlMM.Associaton) {
+	continue;
+}
+umlMM.Associaton link = (umlMM.Associaton) setting.getEObject();
+	if (umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID != umlMM.diagram.part.UMLVisualIDRegistry.getLinkWithClassVisualID(link)) {
+	continue;
+}
+				umlMM.Class src = link.getSource();
+			result.add(new umlMM.diagram.part.UMLLinkDescriptor(src, target, link, umlMM.diagram.providers.UMLElementTypes.Associaton_4001, umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID));
+		}
+	return result;	
+}
+				
+		/**
+ * @generated
+ */
+private static java.util.Collection<umlMM.diagram.part.UMLLinkDescriptor> getOutgoingTypeModelFacetLinks_Associaton_4001(umlMM.Class source) {
+	umlMM.Package container = null;
+	// Find container element for the link.
+	// Climb up by containment hierarchy starting from the source
+	// and return the first element that is instance of the container class.
+	for (org.eclipse.emf.ecore.EObject element = source; element != null && container == null; element = element.eContainer()) {
+		if (element instanceof umlMM.Package) {
+			container = (umlMM.Package) element;
+		}
+	}
+	if (container == null) {
+		return java.util.Collections.emptyList();
+	}
+		java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor> result = new java.util.LinkedList<umlMM.diagram.part.UMLLinkDescriptor>();
+	for (java.util.Iterator<?> links = container.getAssociation().iterator(); links.hasNext();) {
+	org.eclipse.emf.ecore.EObject linkObject = (org.eclipse.emf.ecore.EObject ) links.next();
+	if (false == linkObject instanceof umlMM.Associaton) {
+		continue;
+	}
+	umlMM.Associaton link = (umlMM.Associaton) linkObject;
+		if (umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID != umlMM.diagram.part.UMLVisualIDRegistry.getLinkWithClassVisualID(link)) {
+	continue;
+}
+			umlMM.Class dst = link.getDestination();
+							umlMM.Class src = link.getSource();
+								if (src != source) {
+	continue;
+}
+						result.add(new umlMM.diagram.part.UMLLinkDescriptor(src, dst, link, umlMM.diagram.providers.UMLElementTypes.Associaton_4001, umlMM.diagram.edit.parts.AssociatonEditPart.VISUAL_ID));
+		}
+	return result;	
+}		
+	
+	}

@@ -1,0 +1,27 @@
+package umlMM.diagram.preferences;
+
+/**
+ * @generated
+ */
+public class DiagramPreferenceInitializer extends org.eclipse.core.runtime.preferences.AbstractPreferenceInitializer {
+
+	/**
+ * @generated
+ */
+	public void initializeDefaultPreferences() {
+		org.eclipse.jface.preference.IPreferenceStore store = getPreferenceStore();
+		umlMM.diagram.preferences.DiagramGeneralPreferencePage.initDefaults(store);
+umlMM.diagram.preferences.DiagramAppearancePreferencePage.initDefaults(store);
+umlMM.diagram.preferences.DiagramConnectionsPreferencePage.initDefaults(store);
+umlMM.diagram.preferences.DiagramPrintingPreferencePage.initDefaults(store);
+umlMM.diagram.preferences.DiagramRulersAndGridPreferencePage.initDefaults(store);
+
+	}
+
+	/**
+ * @generated
+ */
+	protected org.eclipse.jface.preference.IPreferenceStore getPreferenceStore() {
+		return umlMM.diagram.part.UMLDiagramEditorPlugin.getInstance().getPreferenceStore();
+	}
+} 

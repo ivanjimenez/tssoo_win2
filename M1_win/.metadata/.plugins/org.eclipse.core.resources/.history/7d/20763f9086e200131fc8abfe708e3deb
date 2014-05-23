@@ -1,0 +1,14 @@
+package umlMM.diagram.preferences;
+
+/**
+ * @generated
+ */
+public class DiagramPrintingPreferencePage extends org.eclipse.gmf.runtime.diagram.ui.preferences.PrintingPreferencePage {
+
+	/**
+ * @generated
+ */
+	public DiagramPrintingPreferencePage() {
+		setPreferenceStore(umlMM.diagram.part.UMLDiagramEditorPlugin.getInstance().getPreferenceStore());
+	}
+}

@@ -1,0 +1,51 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: NibtFfw6hKDJc/SZaJHeC1YeWLg=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: p1FugJCwqYCXW5epw/DlIwPQxyU=
+
+Name: intro/amalgamDiscovery.xml
+SHA1-Digest: BndC0f580Ph0Q7TA1sVTm6atRrw=
+
+Name: org/eclipse/amalgam/discovery/modeling/handlers/ModelingDiscover
+ yAction.class
+SHA1-Digest: csQR7SxWVeaO8ppzWWDeRUOVReM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: icons/modeling32.png
+SHA1-Digest: qvPSUalCmRG36kQMB7bQjUcaULs=
+
+Name: about.html
+SHA1-Digest: UdxSrtnTblyuUXnWjbJDKMc6VtY=
+
+Name: icons/modeling16.png
+SHA1-Digest: 63wpYnoiJh1yELp9nrqG+fpp7CA=
+
+Name: org/eclipse/amalgam/discovery/modeling/Activator.class
+SHA1-Digest: qO0wLhbB5cCdMi7347fG0u/eklc=
+
+Name: org/eclipse/amalgam/discovery/modeling/handlers/ModelingDiscover
+ yAction$1.class
+SHA1-Digest: rFpxOxsy29usBVyUVqS517k79xo=
+
+Name: org/eclipse/amalgam/discovery/modeling/handlers/ModelingDiscover
+ yHandler.class
+SHA1-Digest: lGhgGb9P97Lppxrl8emafQVAALs=
+
+Name: intro/css/overview.properties
+SHA1-Digest: 0dYn73cD0YBmfEXCAIwd6Jvns4Y=
+
+Name: plugin.xml
+SHA1-Digest: OJ6mZ3vC+pu/7x0jdoSp4nbgq8w=
+
+Name: intro/css/overview.css
+SHA1-Digest: ri72WX4ZGV8JWYfGwNcuIYWLBdQ=
+
+Name: intro/images/banner-discovery.png
+SHA1-Digest: vHRQAy5ERpiDJbYpOmw6teftqyI=
+
+Name: org/eclipse/amalgam/discovery/modeling/handlers/ModelingDiscover
+ yHandler$1.class
+SHA1-Digest: CuSQyyjRTY1GZLKB1tI0h+qc4J0=
+

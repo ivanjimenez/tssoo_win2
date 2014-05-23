@@ -1,0 +1,272 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: UXHJLIJ3zUiCQ3mKCUgJ0re3PM8=
+Created-By: 1.6.0 (IBM Corporation)
+SHA1-Digest-Manifest-Main-Attributes: k1BA07vLYv5sLW7SFW1V6Z8Ic1w=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/OpenForeignModelAction.
+ class
+SHA1-Digest: LwTRI3Wn3knlaryUSAAhTG6zU28=
+
+Name: org/eclipse/emf/mint/internal/ui/filters/GeneratedNoneFilter.cla
+ ss
+SHA1-Digest: TdgTotBK4lcaeVIvFbvmr3zdVdQ=
+
+Name: org/eclipse/emf/mint/internal/ui/source/CodeGenTag.class
+SHA1-Digest: c1dSTooOv33d343nZYIl8DsniUc=
+
+Name: org/eclipse/emf/mint/internal/ui/Messages.class
+SHA1-Digest: KHrqHLbLlIVv6zHZnvKpp2maM6A=
+
+Name: org/eclipse/emf/mint/internal/ui/MintUI$2$1.class
+SHA1-Digest: tEbozT0HxWDCs0CktB/qTRgyog4=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CleanGeneratedRefactori
+ ngDescriptor.class
+SHA1-Digest: bINRRGIyGLnTXMvmQq5rYuIJqAY=
+
+Name: org/eclipse/emf/mint/internal/ui/source/GeneratedElementDecorato
+ r$EffectiveCodeGenStatus.class
+SHA1-Digest: VOkzMyINT3npxvUnCP7C9XaPxQ0=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelQueryParticipant
+ $2.class
+SHA1-Digest: vu5LLorBeTPoK1NZYWEV3zbvRck=
+
+Name: org/eclipse/emf/mint/internal/ui/source/Messages.class
+SHA1-Digest: hqvH3kQ4XQtrakrSDqRE0Ga8afQ=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CleanGeneratedWizard.cl
+ ass
+SHA1-Digest: lXl6jgjd3wmntvYUIRBj2hjbi2E=
+
+Name: org/eclipse/emf/mint/internal/ui/views/ItemJavaElementContentPro
+ vider.class
+SHA1-Digest: P+zoWYQ2p6FyCWpMwdZWq5afEIs=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelMatch.class
+SHA1-Digest: FTkT7E9l7HATBpncLKxHauJllqs=
+
+Name: org/eclipse/emf/mint/internal/ui/views/messages.properties
+SHA1-Digest: 9NSW/deKIGFylayTaT98fx6mYps=
+
+Name: org/eclipse/emf/mint/internal/ui/source/GeneratedElementDecorato
+ r$1.class
+SHA1-Digest: F0Sp0rdK+WR/lUxJ2X9cCTDSKkQ=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: SAqY+5ITAL0mkdYeijlSRhyIaZk=
+
+Name: org/eclipse/emf/mint/internal/ui/search/JavaSearchMonitor.class
+SHA1-Digest: sGk7sdT6QpbQgnNQ9qLVCMPK+yw=
+
+Name: intro/css/images/mint.png
+SHA1-Digest: EP8MdsvFMqlK+nJH05PUAkKNGzA=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CommandAction.class
+SHA1-Digest: Gqeac0EFDdtESSRhgIEsNiE+27M=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CleanGeneratedAction.cl
+ ass
+SHA1-Digest: PBIiCIobE6KLe5gAQy/OfaPu8QE=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CleanGeneratedHandler.c
+ lass
+SHA1-Digest: nVxBGDufDIDBYg6EQudF43klogM=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelQueryParticipant
+ $SearchHelper.class
+SHA1-Digest: qxNw9+hLnG8S1YyUnyApIob2yxs=
+
+Name: org/eclipse/emf/mint/internal/ui/filters/GeneratedFilter.class
+SHA1-Digest: 2lVkQCklsBSU6zCu8xhzLzF9XLY=
+
+Name: org/eclipse/emf/mint/internal/ui/filters/GeneratedNotFilter.clas
+ s
+SHA1-Digest: QsE+z4fQmcie95dxwJJlM3xFaf4=
+
+Name: org/eclipse/emf/mint/internal/ui/views/ItemJavaElementDescriptor
+ .class
+SHA1-Digest: hZ50mGwI5rsIm0dlfoACbcrVm3Y=
+
+Name: org/eclipse/emf/mint/internal/ui/source/CustomizeGeneratedMethod
+ Action.class
+SHA1-Digest: CwiYqudF8watsyhgVt8KUc08LjI=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/messages.properties
+SHA1-Digest: VaMaXTEPvM47DwKi3bUSrhCBsCY=
+
+Name: org/eclipse/emf/mint/internal/ui/MintUI.class
+SHA1-Digest: oZTL0+0uAPxQFA3PEWQzP/ErUJs=
+
+Name: org/eclipse/emf/mint/internal/ui/search/JavaSearchMonitor$1.clas
+ s
+SHA1-Digest: UsatsTrJiBY+4xc9uQQAPeNLaLw=
+
+Name: org/eclipse/emf/mint/internal/ui/source/messages.properties
+SHA1-Digest: 6EXWb8/txXcjfydyZshyMT2H4hg=
+
+Name: icons/cview16/generated.png
+SHA1-Digest: +YgM7EWsWVZyHRw8kC7ukb1QlUc=
+
+Name: intro/css/images/mint_hov.png
+SHA1-Digest: anH8AwHWy0EY4o0D+0kIxqggCy0=
+
+Name: org/eclipse/emf/mint/internal/ui/views/UpdateViewerJob.class
+SHA1-Digest: KjuLeFuU55uMzaQgmNbUIZFaIvc=
+
+Name: org/eclipse/emf/mint/internal/ui/views/JavaElementNavigator.clas
+ s
+SHA1-Digest: s/wmftvv2sOSXivhqGjyOmPtkjo=
+
+Name: intro/overviewExtensionContent.xml
+SHA1-Digest: hQ6qWXjwlPKxiMtE0LTA5xCFVg8=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CleanGeneratedRefactori
+ ng.class
+SHA1-Digest: WdvKplTHD5KDnreLkfzVC3xKx/k=
+
+Name: org/eclipse/emf/mint/internal/ui/MintUI$2.class
+SHA1-Digest: S+hsORHJtHNFMAbMQi/5vm6y35s=
+
+Name: org/eclipse/emf/mint/internal/ui/search/messages.properties
+SHA1-Digest: thG4wwMzi6hVkHoQs21dWtTQMOg=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/OpenGeneratedAction.cla
+ ss
+SHA1-Digest: MNP4m1OvgeHYlx6H0tlo4zPayFA=
+
+Name: org/eclipse/emf/mint/internal/ui/messages.properties
+SHA1-Digest: yX6oXHdlMzoDHyKzvY5OqyKgs3E=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelQueryParticipant
+ .class
+SHA1-Digest: C4EM214i45MMQZywizPntuT2e5Q=
+
+Name: org/eclipse/emf/mint/internal/ui/source/CustomizeGeneratedMethod
+ Handler.class
+SHA1-Digest: foGkElvjgN5wnlJbYsES1TAPqQo=
+
+Name: org/eclipse/emf/mint/internal/ui/source/GeneratedElementDecorato
+ r$UpdateJob.class
+SHA1-Digest: 21idNPeTM5eD/jt9lDhmFnMEXFw=
+
+Name: org/eclipse/emf/mint/internal/ui/views/Messages.class
+SHA1-Digest: wop6te95xWidBjjTV9VDMNXH2oE=
+
+Name: org/eclipse/emf/mint/internal/ui/source/CodeGenTagCompletionProp
+ osalComputer.class
+SHA1-Digest: VzW1U0tF2VCqIgXs8eECdUzA6eU=
+
+Name: plugin.properties
+SHA1-Digest: j1jow62UN96ykPus3cVzD3OW7dw=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelQueryParticipant
+ $FileURI.class
+SHA1-Digest: FGrL4wjCOwn30mJK7Fe4oPyFV1I=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelQueryParticipant
+ $1.class
+SHA1-Digest: WolIAblmnrIkcygBvrebGdJsFQ4=
+
+Name: org/eclipse/emf/mint/internal/ui/source/CodeGenTagCompletionProp
+ osal.class
+SHA1-Digest: 1ZnPwNwzF9FqY+zQFnBvsCs1lsM=
+
+Name: org/eclipse/emf/mint/internal/ui/source/CustomizeGeneratedMethod
+ Handler$1.class
+SHA1-Digest: 8SVe4aoYqm6bTgbY/hc56+Ey12o=
+
+Name: org/eclipse/emf/mint/internal/ui/filters/GeneratedElementFilter.
+ class
+SHA1-Digest: vBOjE5xKe+6a7mU3P1Q2o+mG8zQ=
+
+Name: org/eclipse/emf/mint/internal/ui/source/GeneratedElementDecorato
+ r.class
+SHA1-Digest: l1cWKFrM0m1JXcVgaqvNrbiUC+U=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelMatch$Element.cl
+ ass
+SHA1-Digest: MsTirQth61scy+vYBSP1cdm/1xI=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/Messages.class
+SHA1-Digest: XY/UQIynpZbKpZW9v+YmVNWh9sQ=
+
+Name: org/eclipse/emf/mint/ui/AbstractOpenGeneratedMenu.class
+SHA1-Digest: nxWFo5IZkVn0wHgWUx7rD4kmbQg=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelMatchPresentatio
+ n.class
+SHA1-Digest: dY6WwpvzfkAQrqeEnGCbW9GdHCc=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/GenModelPropertyTester.
+ class
+SHA1-Digest: I1bd4siBksxGxhjEWKLUB2GDTNI=
+
+Name: org/eclipse/emf/mint/internal/ui/views/ItemJavaElementLabelProvi
+ der.class
+SHA1-Digest: Urd204OfpOLbBJ1JSOGCaoUiw90=
+
+Name: org/eclipse/emf/mint/internal/ui/source/GeneratedElementDecorato
+ r$ColorJob.class
+SHA1-Digest: Gx0en4D5yCknGvD2mShIn1X1Q8w=
+
+Name: plugin.xml
+SHA1-Digest: lMls2JfhAc8tlk+j2tEal9E24HE=
+
+Name: intro/css/overview.css
+SHA1-Digest: 2U7uyyq3PBRqluMYgGr2/q210dc=
+
+Name: org/eclipse/emf/mint/internal/ui/views/FindTypeJob.class
+SHA1-Digest: D4whDL1AtdREJkuO9QQC14fy/Kw=
+
+Name: org/eclipse/emf/mint/internal/ui/source/CustomizeGeneratedMethod
+ Operation.class
+SHA1-Digest: K3ZJuzLJMy0p+r5fuSPThw1KZbA=
+
+Name: org/eclipse/emf/mint/ui/AbstractOpenGeneratedMenu$DescriptorComp
+ arator.class
+SHA1-Digest: cFeoxktWqkZzmLUTE7vKrkPRtz0=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CleanGeneratedWizard$Op
+ tionsPage.class
+SHA1-Digest: r8SX+FpB8/hV9nTS3KVLcvJ8dLg=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/OpenGeneratedMenu.class
+SHA1-Digest: S9peB6rsVLZy4XpHasXM9rujXFU=
+
+Name: org/eclipse/emf/mint/internal/ui/search/Messages.class
+SHA1-Digest: G9hy88y7VAvZOcYL2pKV+HlEDEc=
+
+Name: about.html
+SHA1-Digest: IYvbTzJbb8WTIS/5jH0z4XaoEOE=
+
+Name: org/eclipse/emf/mint/internal/ui/source/GeneratedMethodPropertyT
+ ester.class
+SHA1-Digest: 7cBv15l9WesHEN2L1bei4UFWzME=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CleanGeneratedRefactori
+ ng$CleanGeneratedChange.class
+SHA1-Digest: rS+G28sGutjQU1M/wgq2HlZyEU4=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/CleanGeneratedRefactori
+ ngContribution.class
+SHA1-Digest: T49/kpolbTTfAIAGAsV+Py+mjuw=
+
+Name: org/eclipse/emf/mint/internal/ui/search/JavaSearchMonitor$2.clas
+ s
+SHA1-Digest: RbCdIydyd0J9UeVpv63Tpp3MH+o=
+
+Name: icons/blank.gif
+SHA1-Digest: eGSDu2hgrw3fDdhAaaJ+gy+ye8M=
+
+Name: org/eclipse/emf/mint/internal/ui/search/GenModelMatchPresentatio
+ n$SearchResultLabelProvider.class
+SHA1-Digest: aZLygwcqdpFa7vuN3OnqdwHGcv0=
+
+Name: org/eclipse/emf/mint/internal/ui/actions/OpenForeignModelsMenu.c
+ lass
+SHA1-Digest: 2nYlspep/bwiCI+xHsItHLX89tA=
+
+Name: org/eclipse/emf/mint/internal/ui/MintUI$1.class
+SHA1-Digest: fZzdovArImubHXKSujvivEx4KsI=
+

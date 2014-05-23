@@ -1,0 +1,25 @@
+package umlMM.diagram.providers;
+
+/**
+ * @generated
+ */
+public class UMLIconProvider extends org.eclipse.gmf.runtime.common.core.service.AbstractProvider
+		implements org.eclipse.gmf.runtime.common.ui.services.icon.IIconProvider {
+
+	/**
+ * @generated
+ */
+	public org.eclipse.swt.graphics.Image getIcon(org.eclipse.core.runtime.IAdaptable hint, int flags) {
+		return umlMM.diagram.providers.UMLElementTypes.getImage(hint);
+	}
+
+	/**
+ * @generated
+ */
+	public boolean provides(org.eclipse.gmf.runtime.common.core.service.IOperation operation) {
+		if (operation instanceof org.eclipse.gmf.runtime.common.ui.services.icon.GetIconOperation) {
+			return ((org.eclipse.gmf.runtime.common.ui.services.icon.GetIconOperation) operation).execute(this) != null;
+		}
+		return false;
+	}
+	}

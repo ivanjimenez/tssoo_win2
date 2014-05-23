@@ -1,0 +1,4 @@
+#Fri May 23 10:11:47 CLT 2014
+eclipse.preferences.version=1
+gmf_dashboard/domainModel=platform\:/resource/UML/model/UML.ecore
+gmf_dashboard/graphicalDefinitionModel=platform\:/resource/UML/model/UML.gmfgraph

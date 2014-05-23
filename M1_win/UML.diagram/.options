@@ -1,0 +1,7 @@
+# Tracing options for the UML.diagram plug-in
+
+# Common issues
+UML.diagram/debug=false
+
+# Visual IDs
+UML.diagram/debug/visualID=false

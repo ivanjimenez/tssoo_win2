@@ -1,0 +1,59 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Eclipse Modeling Project
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Bundle-Name: Amalgam Modeling Discovery UI (Incubation)
+Bundle-SymbolicName: org.eclipse.amalgam.discovery.modeling;singleton:
+ =true
+Require-Bundle: org.eclipse.core.runtime,org.eclipse.ui,org.eclipse.am
+ algam.discovery.ui;bundle-version="1.0.0"
+Bundle-Activator: org.eclipse.amalgam.discovery.modeling.Activator
+Bundle-Version: 1.1.0.v201006150414
+Bundle-ManifestVersion: 2
+
+Name: intro/amalgamDiscovery.xml
+SHA1-Digest: uA1+z2vM+f6oXtqjZP5kM36AFNw=
+
+Name: org/eclipse/amalgam/discovery/modeling/handlers/ModelingDiscover
+ yAction.class
+SHA1-Digest: tbw8VKe61dJXFxKUayTcKC4PhfM=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: icons/modeling32.png
+SHA1-Digest: ADlLWFV0eQ74YnLvHnPFkYLeLrs=
+
+Name: about.html
+SHA1-Digest: ztzTKONYJdfqz4aa9yHkuSdsVnE=
+
+Name: icons/modeling16.png
+SHA1-Digest: KettLzBpGACnApEEOLfyzhYHo30=
+
+Name: org/eclipse/amalgam/discovery/modeling/Activator.class
+SHA1-Digest: 6DuHUwm3sfNSMyAk2qtMkKwqDS4=
+
+Name: org/eclipse/amalgam/discovery/modeling/handlers/ModelingDiscover
+ yAction$1.class
+SHA1-Digest: QS2LbbfXuVkKvFDWKH0dPhPVbB8=
+
+Name: org/eclipse/amalgam/discovery/modeling/handlers/ModelingDiscover
+ yHandler.class
+SHA1-Digest: UcrQTaqny3leHqA35Err+or7Suk=
+
+Name: intro/css/overview.properties
+SHA1-Digest: zipIO9ctauZ0bQh+d9GBpdkynrU=
+
+Name: plugin.xml
+SHA1-Digest: 9R0UJdUodL9qw+PsgmY5F4nq124=
+
+Name: intro/css/overview.css
+SHA1-Digest: AavDm7mjtRW3svZa38Q0Xtjh4mw=
+
+Name: intro/images/banner-discovery.png
+SHA1-Digest: PRjm7eHzyk7VJ5FwKvovVeMDbpY=
+
+Name: org/eclipse/amalgam/discovery/modeling/handlers/ModelingDiscover
+ yHandler$1.class
+SHA1-Digest: 0t4gyQenAJ8l3OzUcKOwu/Lya/E=
+

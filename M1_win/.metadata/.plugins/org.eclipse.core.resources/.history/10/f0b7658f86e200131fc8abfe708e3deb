@@ -1,0 +1,65 @@
+package umlMM.diagram.edit.parts;
+
+/**
+ * @generated
+ */
+public class ClassAttributeCompartmentEditPart extends org.eclipse.gmf.runtime.diagram.ui.editparts.ListCompartmentEditPart  {
+
+			/**
+ * @generated
+ */
+	public static final int VISUAL_ID = 7001;
+	
+		/**
+ * @generated
+ */
+	public ClassAttributeCompartmentEditPart(org.eclipse.gmf.runtime.notation.View view) {
+		super(view);
+	}
+	
+				/**
+ * @generated
+ */
+		protected boolean hasModelChildrenChanged(org.eclipse.emf.common.notify.Notification evt) {
+			return false;
+		}
+		
+		/**
+ * @generated
+ */
+	public String getCompartmentName() {
+		return umlMM.diagram.part.Messages.ClassAttributeCompartmentEditPart_title;
+	}
+	
+						/**
+ * @generated
+ */
+		public org.eclipse.draw2d.IFigure createFigure() {
+			org.eclipse.gmf.runtime.diagram.ui.figures.ResizableCompartmentFigure result = (org.eclipse.gmf.runtime.diagram.ui.figures.ResizableCompartmentFigure) super.createFigure();
+			result.setTitleVisibility(false);
+			return result;
+		}
+		
+		/**
+ * @generated
+ */
+	protected void createDefaultEditPolicies() {
+			super.createDefaultEditPolicies();
+			installEditPolicy(org.eclipse.gmf.runtime.diagram.ui.editpolicies.EditPolicyRoles.SEMANTIC_ROLE, new umlMM.diagram.edit.policies.ClassAttributeCompartmentItemSemanticEditPolicy());
+				installEditPolicy(org.eclipse.gmf.runtime.diagram.ui.editpolicies.EditPolicyRoles.CREATION_ROLE, new org.eclipse.gmf.runtime.diagram.ui.editpolicies.CreationEditPolicy());
+		installEditPolicy(org.eclipse.gmf.runtime.diagram.ui.editpolicies.EditPolicyRoles.DRAG_DROP_ROLE, new org.eclipse.gmf.runtime.diagram.ui.editpolicies.DragDropEditPolicy());
+			installEditPolicy(org.eclipse.gmf.runtime.diagram.ui.editpolicies.EditPolicyRoles.CANONICAL_ROLE, new umlMM.diagram.edit.policies.ClassAttributeCompartmentCanonicalEditPolicy());
+				}
+	
+			
+			
+			
+		/**
+ * @generated
+ */
+	protected void setRatio(Double ratio) {
+				// nothing to do -- parent layout does not accept Double constraints as ratio
+		// super.setRatio(ratio); 
+			}
+	
+	}

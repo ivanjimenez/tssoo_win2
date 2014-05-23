@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmfmap:Mapping xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:gmfmap="http://www.eclipse.org/gmf/2008/mappings">
+  <diagram>
+    <diagramCanvas
+        href="UML.gmfgraph#umlMM"/>
+    <domainModel
+        href="UML.ecore#/"/>
+    <domainMetaElement
+        href="UML.ecore#//Package"/>
+    <palette
+        href="UML.gmftool#//@palette"/>
+  </diagram>
+</gmfmap:Mapping>

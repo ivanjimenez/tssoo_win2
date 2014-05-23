@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:umlMM="http://es.uclm/umlMM" xmi:id="_XNRKIeJ-EeOcwtNwRFsEPg" type="UML" name="ONE.umlmm_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_Zo4Q8OJ-EeOcwtNwRFsEPg" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Zo7UQOJ-EeOcwtNwRFsEPg" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Zo9JcOJ-EeOcwtNwRFsEPg" type="7001">
+      <children xmi:type="notation:Node" xmi:id="_a6CW0OJ-EeOcwtNwRFsEPg" type="3001">
+        <element xmi:type="umlMM:Attribute" href="ONE.umlmm#//@classifier.0/@attribute.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_a6CW0eJ-EeOcwtNwRFsEPg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_Zo9JceJ-EeOcwtNwRFsEPg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_Zo9JcuJ-EeOcwtNwRFsEPg"/>
+    </children>
+    <element xmi:type="umlMM:Class" href="ONE.umlmm#//@classifier.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Zo4Q8eJ-EeOcwtNwRFsEPg" x="15" y="65" width="151" height="110"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_gWZR0OJ-EeOcwtNwRFsEPg" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gWZR0uJ-EeOcwtNwRFsEPg" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_gWZR0-J-EeOcwtNwRFsEPg" type="7001">
+      <children xmi:type="notation:Node" xmi:id="_lnzhEOJ-EeOcwtNwRFsEPg" type="3001">
+        <element xmi:type="umlMM:Attribute" href="ONE.umlmm#//@classifier.1/@attribute.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_lnzhEeJ-EeOcwtNwRFsEPg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_gWZR1OJ-EeOcwtNwRFsEPg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_gWZR1eJ-EeOcwtNwRFsEPg"/>
+    </children>
+    <element xmi:type="umlMM:Class" href="ONE.umlmm#//@classifier.1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gWZR0eJ-EeOcwtNwRFsEPg" x="216" y="200" width="146" height="106"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_iGO3wOJ-EeOcwtNwRFsEPg" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_iGPe0OJ-EeOcwtNwRFsEPg" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_iGPe0eJ-EeOcwtNwRFsEPg" type="7001">
+      <children xmi:type="notation:Node" xmi:id="_me6vQOJ-EeOcwtNwRFsEPg" type="3001">
+        <element xmi:type="umlMM:Attribute" href="ONE.umlmm#//@classifier.2/@attribute.0"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_me6vQeJ-EeOcwtNwRFsEPg"/>
+      </children>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_iGPe0uJ-EeOcwtNwRFsEPg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_iGPe0-J-EeOcwtNwRFsEPg"/>
+    </children>
+    <element xmi:type="umlMM:Class" href="ONE.umlmm#//@classifier.2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_iGO3weJ-EeOcwtNwRFsEPg" x="385" y="50" width="166" height="91"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_XNRxMOJ-EeOcwtNwRFsEPg"/>
+  <element xmi:type="umlMM:Package" href="ONE.umlmm#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_pZYVQOJ-EeOcwtNwRFsEPg" type="4001" source="_Zo4Q8OJ-EeOcwtNwRFsEPg" target="_iGO3wOJ-EeOcwtNwRFsEPg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_pZYVQeJ-EeOcwtNwRFsEPg" fontName="Segoe UI"/>
+    <element xmi:type="umlMM:Associaton" href="ONE.umlmm#//@Association.0"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pZYVQuJ-EeOcwtNwRFsEPg" points="[76, -6, -239, 16]$[461, -28, 146, -6]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_pZwvwOJ-EeOcwtNwRFsEPg" id="(0.12048192771084337,0.5274725274725275)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_sAPp0OJ-EeOcwtNwRFsEPg" type="4001" source="_iGO3wOJ-EeOcwtNwRFsEPg" target="_gWZR0OJ-EeOcwtNwRFsEPg">
+    <styles xmi:type="notation:FontStyle" xmi:id="_sAQQ4OJ-EeOcwtNwRFsEPg" fontName="Segoe UI"/>
+    <element xmi:type="umlMM:Associaton" href="ONE.umlmm#//@Association.1"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_sAQQ4eJ-EeOcwtNwRFsEPg" points="[-51, 46, 94, -84]$[-115, 105, 30, -25]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_sASGEOJ-EeOcwtNwRFsEPg" id="(0.7328767123287672,0.2358490566037736)"/>
+  </edges>
+</notation:Diagram>
