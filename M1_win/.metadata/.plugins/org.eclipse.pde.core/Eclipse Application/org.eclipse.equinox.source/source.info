@@ -404,8 +404,8 @@ org.eclipse.xtext.xtend.source,1.0.1.v201008251220,file:/C:/Users/Alvarroco/Desk
 org.eclipse.xtext.xtext.ui.examples.source,1.0.1.v201008251220,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.eclipse.xtext.xtext.ui.examples.source_1.0.1.v201008251220.jar,-1,false
 org.eclipse.xtext.xtext.ui.source,1.0.1.v201008251220,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.eclipse.xtext.xtext.ui.source_1.0.1.v201008251220.jar,-1,false
 org.hamcrest.core.source,1.1.0.v20090501071000,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.hamcrest.core.source_1.1.0.v20090501071000.jar,-1,false
-org.junit.source,4.8.1.v4_8_1_v20100427-1100,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.junit.source_4.8.1.v4_8_1_v20100427-1100.jar,-1,false
 org.junit.source,3.8.2.v3_8_2_v20100427-1100,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.junit.source_3.8.2.v3_8_2_v20100427-1100.jar,-1,false
+org.junit.source,4.8.1.v4_8_1_v20100427-1100,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.junit.source_4.8.1.v4_8_1_v20100427-1100.jar,-1,false
 org.mortbay.jetty.server.source,6.1.23.v201004211559,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.mortbay.jetty.server.source_6.1.23.v201004211559.jar,-1,false
 org.mortbay.jetty.util.source,6.1.23.v201004211559,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.mortbay.jetty.util.source_6.1.23.v201004211559.jar,-1,false
 org.objectweb.asm.source,3.2.0.v200909071300,file:/C:/Users/Alvarroco/Desktop/eclipse/plugins/org.objectweb.asm.source_3.2.0.v200909071300.jar,-1,false
